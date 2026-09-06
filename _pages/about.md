@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Consultant Specialist, Payment Tech SME in HSBC Software Dev (GD) Ltd.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+86 13049362776</p>
+    <p>Room 1605, Building M4, Phase 1, Poly Xiyuewan, Liwan District</p>
+    <p>Guangzhou, Guangdong, P.R. China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a software engineering researcher with 5+ years of industrial experience in banking payment systems and fintech infrastructure. My research centers on automated software quality assurance, LLM-augmented software engineering, and reliability validation of large-scale financial systems, with extensive field validation in ISO 20022 migration and batch payment testing scenarios.<br/>Three core strands:<br/>1. Automated testing and quality assurance for large-scale enterprise payment systems, with particular emphasis on batch processing scenarios and ISO 20022 standard migration validation<br/>2. LLM-augmented software engineering pipelines, including automated requirements analysis, user story generation, end-to-end test case synthesis, and defect identification<br/>3. Industrial-scale SE method validation, bridging academic methodologies with real-world banking system constraints and compliance requirements<br/><br/>I am now pursuing a PhD to develop more rigorous, efficient, and reliable software engineering practices for critical enterprise systems.
