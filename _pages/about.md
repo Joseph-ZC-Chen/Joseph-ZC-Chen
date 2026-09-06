@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+86 13049362776</p>
-    <p>Room 1605, Building M4, Phase 1, Poly Xiyuewan, Liwan District</p>
     <p>Guangzhou, Guangdong, P.R. China</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
