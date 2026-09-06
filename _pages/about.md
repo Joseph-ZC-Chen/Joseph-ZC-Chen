@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: Consultant Specialist, Payment Tech SME in HSBC Software Dev (GD) Ltd.
